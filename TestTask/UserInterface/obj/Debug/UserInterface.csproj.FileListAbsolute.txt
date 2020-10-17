@@ -1,0 +1,11 @@
+D:\TestTask\UserInterface\bin\Debug\UserInterface.exe.config
+D:\TestTask\UserInterface\bin\Debug\UserInterface.exe
+D:\TestTask\UserInterface\bin\Debug\UserInterface.pdb
+D:\TestTask\UserInterface\obj\Debug\UserInterface.csprojAssemblyReference.cache
+D:\TestTask\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\TestTask\UserInterface\obj\Debug\UserInterface.exe
+D:\TestTask\UserInterface\obj\Debug\UserInterface.pdb
+D:\TestTask\UserInterface\bin\Debug\Figures.pdb
+D:\TestTask\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
+D:\TestTask\UserInterface\bin\Debug\Figures.dll
+D:\TestTask\UserInterface\bin\Debug\Figures.dll.config

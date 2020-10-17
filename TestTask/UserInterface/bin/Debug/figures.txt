@@ -1,0 +1,18 @@
+circle 2
+trapeze -1 -1 3 -1 2 1 1 1
+rhombus 0 -3 4 0 0 3 -4 0
+quadrate 2 0 2 6 -4 6 -4 0
+triangle 2 1 3 3 4 3
+rectangle 3 4 3 6 0 6 0 4
+circle 3
+quadrate -1 -1 -1 -6 -6 -6 -6 -1
+triangle -2 -2 -1 0 0 -2
+circle 5
+rhombus 3 4 4 6 3 8 2 6
+trapeze 3 1 6 4 5 5 3 3
+quadrate 1 1 4 1 4 4 1 4
+circle 3
+trapeze 0 -1 3 2 1 2 0 1
+rectangle 1 -1 1 1 -2 1 -2 -1
+quadrate 0 1 -7 1 -7 8 0 8
+badfigure -1 -1 1 -1 1 1 -1 1

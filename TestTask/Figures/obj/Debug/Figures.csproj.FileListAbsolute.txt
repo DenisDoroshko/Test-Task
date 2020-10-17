@@ -1,0 +1,7 @@
+D:\TestTask\Figures\bin\Debug\Figures.pdb
+D:\TestTask\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\TestTask\Figures\obj\Debug\Figures.pdb
+D:\TestTask\Figures\bin\Debug\Figures.dll.config
+D:\TestTask\Figures\bin\Debug\Figures.dll
+D:\TestTask\Figures\obj\Debug\Figures.dll
+D:\TestTask\Figures\obj\Debug\Figures.csprojAssemblyReference.cache
